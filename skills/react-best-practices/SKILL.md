@@ -4,12 +4,12 @@ description: React and Next.js performance optimization guidelines from Vercel E
 license: MIT
 metadata:
   author: vercel
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Vercel React Best Practices
 
-Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Contains 69 rules across 8 categories, prioritized by impact to guide automated refactoring and code generation.
+Test. Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Contains 69 rules across 8 categories, prioritized by impact to guide automated refactoring and code generation.
 
 ## When to Apply
 
