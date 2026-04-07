@@ -3,10 +3,10 @@ name: deploy-to-vercel
 description: Deploy applications and websites to Vercel. Use when the user requests deployment actions like "deploy my app", "deploy and give me the link", "push this live", or "create a preview deployment".
 metadata:
   author: vercel
-  version: "3.9.23"
+  version: "3.9.24"
 ---
 
-# Deploy to Vercel (Test v9.23)
+# Deploy to Vercel (Test v9.24)
 
 Deploy any project to Vercel. **Always deploy as preview** (not production) unless the user explicitly asks for production.
 
