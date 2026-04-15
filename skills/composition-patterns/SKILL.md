@@ -9,10 +9,10 @@ description:
 license: MIT
 metadata:
   author: vercel
-  version: '1.0.0'
+  version: '1.1.0'
 ---
 
-# React Composition Patterns
+# React Composition Patterns 1
 
 Composition patterns for building flexible, maintainable React components. Avoid
 boolean prop proliferation by using compound components, lifting state, and
